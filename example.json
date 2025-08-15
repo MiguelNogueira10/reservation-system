@@ -1,0 +1,89 @@
+[{
+  "name": "Teatro Aveirense",
+  "location": "R. Belém do Pará, 3810-009 Aveiro",
+  "currentPlays": [{
+    "name": "A Bela Adormecida",
+    "duration": "229min",
+    "startDate": "05 may 2025",
+    "endDate": "25 may 2025",
+    "sessions": [{
+      "room": {
+        "number": 6,
+        "seats": 120,
+        "filmType": "IMAX"
+      },
+      "localTime": "15h30"
+    }, {
+      "room": {
+        "number": 3,
+        "seats": 124,
+        "filmType": "3D"
+      },
+      "localTime": "20h00"
+    }
+    ]
+  }
+  ]
+}, {
+  "name": "Cinemas NOS Glicínias",
+  "location": "R. Dom Manuel Barbuda e Vasconcelos, 3810-498 Aveiro",
+  "currentPlays": [{
+    "name": "Os Mínimos 3",
+    "duration": "125min",
+    "startDate": "05 may 2025",
+    "endDate": "25 may 2025",
+    "sessions": [{
+      "room": {
+        "number": 6,
+        "seats": 120,
+        "filmType": "IMAX"
+      },
+      "localTime": "15h30"
+    }, {
+      "room": {
+        "number": 1,
+        "seats": 120,
+        "filmType": "IMAX"
+      },
+      "localTime": "20h00"
+    }, {
+      "room": {
+        "number": 1,
+        "seats": 120,
+        "filmType": "IMAX"
+      },
+      "localTime": "23h00"
+    }
+    ]
+  }, {
+    "name": "Eduardo Mãos de Tesoura",
+    "duration": "200min",
+    "startDate": "10 jun 2025",
+    "endDate": "03 jul 2025",
+    "sessions": [{
+      "room": {
+        "number": 4,
+        "seats": 120,
+        "filmType": "IMAX"
+      },
+      "localTime": "15h30"
+    }, {
+      "room": {
+        "number": 7,
+        "seats": 120,
+        "filmType": "IMAX"
+      },
+      "localTime": "20h00"
+    }, {
+      "room": {
+        "number": 7,
+        "seats": 120,
+        "filmType": "IMAX"
+      },
+      "localTime": "23h00"
+    }
+    ]
+  }
+  ]
+}
+]
